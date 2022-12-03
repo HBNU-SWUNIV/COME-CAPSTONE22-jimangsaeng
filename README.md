@@ -34,8 +34,9 @@
       - 지문비교를 위하여 기존 알고리즘 방식에서 인공지능 방식을 처리 속도 단축을 위하여 사용한다.
       - 지문의 비교는 Siamese Neural Network 구조로 두개의 인풋값을 받아 유사도를 판별한다. 해당 구조의 장점은 비교적 적은양의 데이터로도 학습이 가능하다. 또한 같은 weigth를 공유하는 두개의 층을 사용해 유사도 판별에 적합하다.
 ![image](https://user-images.githubusercontent.com/96884089/205459967-82ff9d70-f421-472d-9b6f-0e1f23165bc2.png)
-![캡처2](https://user-images.githubusercontent.com/96884089/205460089-542f84e2-d023-47e4-8cfa-30fd1f2ce60d.PNG)
   -시스템 구성도
+![캡처2](https://user-images.githubusercontent.com/96884089/205460089-542f84e2-d023-47e4-8cfa-30fd1f2ce60d.PNG)
+
 
 ## Case Study
 
