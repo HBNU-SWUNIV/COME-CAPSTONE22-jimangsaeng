@@ -1,11 +1,8 @@
 # 보고서
 ## 캡스톤 디자인 I 
- - 중간 보고서
- - 기말 보고서
- - 참고) 별도의 폴더를 생성하여 관리 가능함
+ - [중간 보고서](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-jimangsaeng/blob/main/001%20Report/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8I_2022_%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%A7%80%EB%A7%9D%EC%83%9D%ED%8C%80.hwp)
+ - [기말 보고서](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-jimangsaeng/blob/main/001%20Report/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8I_2022_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%A7%80%EB%A7%9D%EC%83%9D%ED%8C%80.hwp)
 
 ## 캡스톤 디자인 I
- - 중간 보고서
- - 기말 보고서
- - 정보기술대학 작품전시 내지
- - 참고) 별도의 폴더를 생성하여 관리 가능함
+ - [중간 보고서](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-jimangsaeng/blob/main/001%20Report/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8II_2022_%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%A7%80%EB%A7%9D%EC%83%9D%ED%8C%80.hwp)
+ - [정보기술대학 작품전시 내지, 기말 보고서](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-jimangsaeng/blob/main/001%20Report/%EC%A0%9C11%ED%9A%8C%20%EC%A0%95%EB%B3%B4%EA%B8%B0%EC%88%A0%EB%8C%80%ED%95%99%20%EC%9E%91%ED%92%88%EC%A0%84%EC%8B%9C%ED%9A%8C%20%EC%B6%94%EC%A7%84%EA%B3%84%ED%9A%8D_%EC%A7%80%EB%A7%9D%EC%83%9D%ED%8C%80.hwp)
