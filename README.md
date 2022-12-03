@@ -19,9 +19,10 @@
   - 신원인증을 위하여 블록체인을 활용하는데 제한적 정보 접근이 가능한 폐쇄형 블록체인을 활용한다. 허용된 사용자만 블록체인에 새로운 데이터를 담을수 있게 하고 나머지의 인원은 지문을 제외한 개인정보의 열람 권한을 부여하지 않아 더욱 안전한 신원인증을 할 수 있다.
 
 ## System Design
+ <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Hyperledger Fabric-2F3134?style=for-the-badge&logo=Hyperledger&logoColor=white"><img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
   - ### System Requirements
-
+    
     - 폐쇄형 블록체인
       - 사용자의 생체정보와 개인정보를 저장하는 블록체인으로 폐쇄형 블록체인인 Hyperledger fabric을 사용한다.
       - 폐쇄형 블록체인의 특징을 살려 허가된 사용자만이 새로운 데이터를 등록 할 수 있다. 이때 사용자는 개인 고유 ID를 부여받는데 이는 데이터 접근 속도를 단축하는데 있다.
